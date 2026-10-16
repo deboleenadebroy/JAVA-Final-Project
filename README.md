@@ -179,6 +179,3 @@ This project is intended for educational purposes and demonstrates the core conc
 
 Potential improvements include stronger password security, audit logging, integration with a real email service, enhanced loan eligibility checks, and more comprehensive automated testing.
 
-## License
-
-No license has been specified for this project. Add a suitable open-source license if you intend to permit reuse or distribution.
