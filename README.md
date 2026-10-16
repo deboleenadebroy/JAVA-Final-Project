@@ -1,6 +1,6 @@
 # Loan Application Management System
 
-#CONTRIBUTORS:
+# CONTRIBUTORS:
 
 - Simar Singh Lamba
 - Deboleena Debroy
