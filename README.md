@@ -2,11 +2,11 @@
 
 ### CONTRIBUTORS:
 
-- Simar Singh Lamba
-- Deboleena Debroy
-- Gargi Deore
-- Disha Roy
-- Maitreyi Jangame
+- Simar Singh Lamba (https://github.com/simarsinghlamba)
+- Deboleena Debroy (https://github.com/deboleenadebroy)
+- Gargi Deore (https://github.com/gargideore26-cpu)
+- Disha Roy (https://github.com/roydisha731-glitch)
+- Maitreyi Jangame (https://github.com/maitreyii307)
 
 
 ## Overview
