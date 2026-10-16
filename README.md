@@ -1,5 +1,14 @@
 # Loan Application Management System
 
+#CONTRIBUTORS:
+
+- Simar Singh Lamba
+- Deboleena Debroy
+- Gargi Deore
+- Disha Roy
+- Maitreyi Jangame
+
+
 ## Overview
 
 The Loan Application Management System is a console-based Java application developed to simplify the basic loan application and approval process. It uses MySQL for data storage and provides a structured workflow for user management, loan applications, application review, and loan repayment calculations.
